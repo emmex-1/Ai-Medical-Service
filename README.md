@@ -1,5 +1,4 @@
-Check out the live web app: ai-medics-sandy.vercel.app
-
+## Check out the live web app: ai-medics-sandy.vercel.app
 
 
 # Welcome to your Emmex Ai medical project
