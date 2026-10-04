@@ -1,16 +1,14 @@
-# Welcome to your Lovable project
+Check out the live web app: ai-medics-sandy.vercel.app
+
+
+
+# Welcome to your Emmex Ai medical project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/aa279978-3c9a-4234-aa0f-786f66eac3bb
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/aa279978-3c9a-4234-aa0f-786f66eac3bb) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -59,10 +57,6 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/aa279978-3c9a-4234-aa0f-786f66eac3bb) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
